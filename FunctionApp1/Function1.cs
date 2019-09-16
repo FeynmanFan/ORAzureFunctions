@@ -23,6 +23,8 @@ namespace FunctionApp1
 
             var config = new ConfigurationBuilder().SetBasePath(context.FunctionAppDirectory).AddJsonFile("local.settings.json", optional: true, reloadOnChange: true).AddEnvironmentVariables().Build();
 
+            throw new InvalidOperationException("This represents exception information from the function");
+
             var title = config["title"] ?? "Mr.";
 
             string name = claimsPrincipal.Identity?.Name; //req.Query["name"];
