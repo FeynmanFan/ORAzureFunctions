@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverser", "Reverser.csproj", "{417B15C1-B76A-4CD1-BB5F-FB99BC789609}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextReverser", "..\TextReverser\TextReverser.csproj", "{ED64A52E-9AB6-44C0-A998-8B0B570272BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextReverser.Tests", "..\TextReverser.Tests\TextReverser.Tests.csproj", "{844CCED0-D132-4870-AD9C-AB55238D9028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{417B15C1-B76A-4CD1-BB5F-FB99BC789609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417B15C1-B76A-4CD1-BB5F-FB99BC789609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417B15C1-B76A-4CD1-BB5F-FB99BC789609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417B15C1-B76A-4CD1-BB5F-FB99BC789609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED64A52E-9AB6-44C0-A998-8B0B570272BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED64A52E-9AB6-44C0-A998-8B0B570272BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED64A52E-9AB6-44C0-A998-8B0B570272BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED64A52E-9AB6-44C0-A998-8B0B570272BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{844CCED0-D132-4870-AD9C-AB55238D9028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844CCED0-D132-4870-AD9C-AB55238D9028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844CCED0-D132-4870-AD9C-AB55238D9028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844CCED0-D132-4870-AD9C-AB55238D9028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FA9AF96-45ED-45E3-B483-CB4A1B61F7D2}
+	EndGlobalSection
+EndGlobal

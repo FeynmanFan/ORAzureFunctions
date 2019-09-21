@@ -3,3 +3,7 @@
 ################################################################################
 
 /TimerFunction/Properties/PublishProfiles
+/TextReverser/bin/Debug
+/TextReverser/obj
+/TextReverser.Tests/bin/Debug/netcoreapp2.2
+/TextReverser.Tests/obj
