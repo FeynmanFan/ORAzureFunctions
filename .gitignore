@@ -7,3 +7,5 @@
 /TextReverser/obj
 /TextReverser.Tests/bin/Debug/netcoreapp2.2
 /TextReverser.Tests/obj
+/Reverser/Properties/PublishProfiles
+/TextReverser/bin/Release/netcoreapp2.1
