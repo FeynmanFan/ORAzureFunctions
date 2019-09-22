@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~2",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "b7107a31-bf7b-4230-a0f2-0aaace319347",
+    "WEBSITE_NODE_DEFAULT_VERSION": "10.14.1",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=cbbscripttestab58;AccountKey=TJ/zvg8EkG7+Swq1cpKQtJcqEdQjzWv+ATbsViSZkH19bNL/yGjv6OiRL0HJvYtebwrx9g61Z/NXENlqh8Y4Ig==",
+    "WEBSITE_CONTENTSHARE": "cbbscripttestab58",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "WEBSITE_SITE_NAME": "cbbScriptTest",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=cbbscripttestab58;AccountKey=TJ/zvg8EkG7+Swq1cpKQtJcqEdQjzWv+ATbsViSZkH19bNL/yGjv6OiRL0HJvYtebwrx9g61Z/NXENlqh8Y4Ig=="
+  }
+}
