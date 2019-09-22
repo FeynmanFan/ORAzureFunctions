@@ -9,3 +9,6 @@
 /TextReverser.Tests/obj
 /Reverser/Properties/PublishProfiles
 /TextReverser/bin/Release/netcoreapp2.1
+/Scripts/.vs/cbbScriptTest
+/Scripts/bin
+/Scripts/obj
